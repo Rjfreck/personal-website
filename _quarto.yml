@@ -1,5 +1,9 @@
 project:
   type: website
+  resources:
+    - RoryFreck Resume.pdf
+    - profile_pic.jpg
+  
 
 website:
   title: "rory-personal-website"

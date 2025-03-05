@@ -1,0 +1,28 @@
+---
+title: "Projects"
+toc: false
+listing: 
+  - id: project-listing
+    contents: "projects/*.qmd"
+    sort: false
+    sort-ui: false
+    type: grid
+    fields: 
+      - title
+      - description
+      - image
+    categories: false
+---
+
+Here are some of the data science and statistical analysis projects I've worked on. These projects cover a range of topics, including **machine learning, experimental design, and predictive modeling**. Click on each project to explore the details and download the full reports.
+
+:::project-listings
+:::
+
+## **Skills Used in These Projects**  
+
+- **Programming & Tools:** Python, R, Tableau, Seaborn, ggplot2  
+- **Machine Learning:** Logistic Regression, Random Forest, XGBoost, Ridge Regression, QDA  
+- **Data Processing:** Feature Engineering, One-Hot Encoding, Data Cleaning, Cross-Validation  
+- **Statistical Analysis:** ANOVA, Hypothesis Testing, Classification, Regression  
+- **Experimental Design:** Randomized Block Design, Pretest-Posttest Design

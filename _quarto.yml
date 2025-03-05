@@ -3,15 +3,19 @@ project:
   resources:
     - RoryFreck Resume.pdf
     - profile_pic.jpg
+    - STATS101FinalProject.pdf
   
 
 website:
-  title: "rory-personal-website"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+
+page-footer:
+  - right: "&copy; 2025 Rory Freck"
 
 format:
   html:
@@ -20,6 +24,10 @@ format:
       - brand
     css: styles.css
     toc: true
-
+    
+    
+execute: 
+  freeze: auto
+  
 
 

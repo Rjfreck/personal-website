@@ -1,0 +1,30 @@
+---
+title: "Predicting NBA Outcomes Using Machine Learning Methods"
+image: "basketball.jpg"
+description: "Used Logistic Regression with L2 regularization to predict NBA game results based on previous games' statistics."
+pdf: "Final Paper.pdf"
+format: html
+---
+
+## Overview  
+This project predicts **NBA game outcomes** using **Logistic Regression with L2 regularization (Ridge penalty)**. The model analyzes **team and player statistics** to determine the probability of a win or loss.
+
+## Methodology  
+- **Dataset:** Historical NBA game data with **team stats (shooting %, turnovers, rebounds, assists, etc.)**  
+- **Feature Engineering:** Scaled continuous variables and selected the most important predictors  
+- **Modeling:** Implemented **Logistic Regression with L2 penalty (Ridge Regularization)** for better generalization  
+- **Evaluation:** Measured accuracy, precision, recall, and AUC to assess performance  
+
+## Key Findings  
+- **Logistic Regression with L2 regularization outperformed other models**  
+- **Turnovers, shooting %, and rebounds were the strongest predictors**  
+- **Regularization reduced overfitting, improving model stability**  
+
+## Results Visualization  
+![Feature Importance](features2.png)  
+*Figure: Key features influencing NBA game outcomes*  
+
+## Conclusion  
+L2-penalized Logistic Regression provides a **stable and interpretable model** for predicting NBA game outcomes. Future work could explore **player-specific metrics, momentum analysis, and real-time in-game factors**.
+
+**[Download the full report (PDF)](Final Paper.pdf)**

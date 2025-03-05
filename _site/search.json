@@ -5,5 +5,159 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here are some of the data science and statistical analysis projects I’ve worked on. These projects cover a range of topics, including machine learning, experimental design, and predictive modeling. Click on each project to explore the details and download the full reports."
+  },
+  {
+    "objectID": "projects.html#skills-used-in-these-projects",
+    "href": "projects.html#skills-used-in-these-projects",
+    "title": "Projects",
+    "section": "Skills Used in These Projects",
+    "text": "Skills Used in These Projects\n\nProgramming & Tools: Python, R, Tableau, Seaborn, ggplot2\n\nMachine Learning: Logistic Regression, Random Forest, XGBoost, Ridge Regression, QDA\n\nData Processing: Feature Engineering, One-Hot Encoding, Data Cleaning, Cross-Validation\n\nStatistical Analysis: ANOVA, Hypothesis Testing, Classification, Regression\n\nExperimental Design: Randomized Block Design, Pretest-Posttest Design"
+  },
+  {
+    "objectID": "projects/project2.html",
+    "href": "projects/project2.html",
+    "title": "Does Heavy or Classical Music Impact Reading Comprehension: An ANOVA Analysis",
+    "section": "",
+    "text": "This study examines how classical and heavy metal music influence reading comprehension. Using an ANOVA analysis within a Randomized Block Design (RCBD), we tested whether music genre affects performance on a standardized reading test."
+  },
+  {
+    "objectID": "projects/project2.html#overview",
+    "href": "projects/project2.html#overview",
+    "title": "Does Heavy or Classical Music Impact Reading Comprehension: An ANOVA Analysis",
+    "section": "",
+    "text": "This study examines how classical and heavy metal music influence reading comprehension. Using an ANOVA analysis within a Randomized Block Design (RCBD), we tested whether music genre affects performance on a standardized reading test."
+  },
+  {
+    "objectID": "projects/project2.html#methodology",
+    "href": "projects/project2.html#methodology",
+    "title": "Does Heavy or Classical Music Impact Reading Comprehension: An ANOVA Analysis",
+    "section": "Methodology",
+    "text": "Methodology\n\nParticipants: 60 participants randomly assigned to classical or heavy metal conditions\n\nDesign: Pretest-Posttest with Randomized Block Design (RCBD)\n\nAnalysis: ANOVA to compare reading scores across conditions"
+  },
+  {
+    "objectID": "projects/project2.html#key-findings",
+    "href": "projects/project2.html#key-findings",
+    "title": "Does Heavy or Classical Music Impact Reading Comprehension: An ANOVA Analysis",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nClassical music group scored significantly higher on reading comprehension.\n\nHeavy metal music had a small negative effect, but not statistically significant.\n\nRCBD controlled for prior reading ability, improving statistical power."
+  },
+  {
+    "objectID": "projects/project2.html#results-visualization",
+    "href": "projects/project2.html#results-visualization",
+    "title": "Does Heavy or Classical Music Impact Reading Comprehension: An ANOVA Analysis",
+    "section": "Results Visualization",
+    "text": "Results Visualization\n\nFigure: Mean reading scores by music type"
+  },
+  {
+    "objectID": "projects/project2.html#conclusion",
+    "href": "projects/project2.html#conclusion",
+    "title": "Does Heavy or Classical Music Impact Reading Comprehension: An ANOVA Analysis",
+    "section": "Conclusion",
+    "text": "Conclusion\nOur findings suggest that classical music may enhance reading comprehension, while heavy metal has no strong negative effect. Future research could explore music tempo, lyrics, or individual differences.\nDownload the full report (PDF)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Rory Freck",
+    "section": "",
+    "text": "Hey, I’m Rory Freck, and I’m passionate about the intersection of finance, data, and problem-solving. I’m currently finishing up my degree in Statistics and Data Science at UCLA, where I’ve spent the last few years diving into everything from machine learning to data visualization. This fall, I’ll be starting my Master of Professional Accountancy (MPAcc) at CSUN, taking my skills into the world of accounting and finance.\nI’ve had the chance to work as a Data Analyst Intern at Stanford, where I built interactive dashboards in Tableau, analyzed hiring trends, and even created an employee recognition webpage using Drupal. Before that, I interned at Stony Apparel Corp., where I helped with internal audits, client orders, and data verification—even preventing a $5,000 compliance fee through careful auditing.\nOutside of work and school, I love cooking, watching baseball and football, playing poker, and diving into anything finance-related. I’m always looking to connect, learn, and take on new challenges, so feel free to reach out on LinkedIn!"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Rory Freck",
+    "section": "",
+    "text": "Hey, I’m Rory Freck, and I’m passionate about the intersection of finance, data, and problem-solving. I’m currently finishing up my degree in Statistics and Data Science at UCLA, where I’ve spent the last few years diving into everything from machine learning to data visualization. This fall, I’ll be starting my Master of Professional Accountancy (MPAcc) at CSUN, taking my skills into the world of accounting and finance.\nI’ve had the chance to work as a Data Analyst Intern at Stanford, where I built interactive dashboards in Tableau, analyzed hiring trends, and even created an employee recognition webpage using Drupal. Before that, I interned at Stony Apparel Corp., where I helped with internal audits, client orders, and data verification—even preventing a $5,000 compliance fee through careful auditing.\nOutside of work and school, I love cooking, watching baseball and football, playing poker, and diving into anything finance-related. I’m always looking to connect, learn, and take on new challenges, so feel free to reach out on LinkedIn!"
+  },
+  {
+    "objectID": "projects/project1.html",
+    "href": "projects/project1.html",
+    "title": "Predicting Uber Fare Prices Using a Gradient Boosting Model",
+    "section": "",
+    "text": "This project predicts Uber ride fares using a Gradient Boosting Model (XGBoost). The model leverages pickup/dropoff locations, distance, and passenger count to estimate fares accurately."
+  },
+  {
+    "objectID": "projects/project1.html#overview",
+    "href": "projects/project1.html#overview",
+    "title": "Predicting Uber Fare Prices Using a Gradient Boosting Model",
+    "section": "",
+    "text": "This project predicts Uber ride fares using a Gradient Boosting Model (XGBoost). The model leverages pickup/dropoff locations, distance, and passenger count to estimate fares accurately."
+  },
+  {
+    "objectID": "projects/project1.html#methodology",
+    "href": "projects/project1.html#methodology",
+    "title": "Predicting Uber Fare Prices Using a Gradient Boosting Model",
+    "section": "Methodology",
+    "text": "Methodology\n\nDataset: 200,000 Uber ride records with fare amounts\n\nFeature Engineering: Calculated ride distance using latitude/longitude\n\nModeling: Trained XGBoost Regression with hyperparameter tuning"
+  },
+  {
+    "objectID": "projects/project1.html#key-findings",
+    "href": "projects/project1.html#key-findings",
+    "title": "Predicting Uber Fare Prices Using a Gradient Boosting Model",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nDistance is the strongest predictor of fare amount\n\nTime-based features (hour, day of the week) also impact fares\n\nXGBoost outperformed Linear Regression in prediction accuracy"
+  },
+  {
+    "objectID": "projects/project1.html#results-visualization",
+    "href": "projects/project1.html#results-visualization",
+    "title": "Predicting Uber Fare Prices Using a Gradient Boosting Model",
+    "section": "Results Visualization",
+    "text": "Results Visualization\n\nFigure: XGBoost feature importance rankings"
+  },
+  {
+    "objectID": "projects/project1.html#conclusion",
+    "href": "projects/project1.html#conclusion",
+    "title": "Predicting Uber Fare Prices Using a Gradient Boosting Model",
+    "section": "Conclusion",
+    "text": "Conclusion\nThis model demonstrates how machine learning can optimize fare predictions, with potential applications in dynamic pricing strategies.\nView the code (PDF)"
+  },
+  {
+    "objectID": "projects/project3.html",
+    "href": "projects/project3.html",
+    "title": "Predicting NBA Outcomes Using Machine Learning Methods",
+    "section": "",
+    "text": "This project predicts NBA game outcomes using Logistic Regression with L2 regularization (Ridge penalty). The model analyzes team and player statistics to determine the probability of a win or loss."
+  },
+  {
+    "objectID": "projects/project3.html#overview",
+    "href": "projects/project3.html#overview",
+    "title": "Predicting NBA Outcomes Using Machine Learning Methods",
+    "section": "",
+    "text": "This project predicts NBA game outcomes using Logistic Regression with L2 regularization (Ridge penalty). The model analyzes team and player statistics to determine the probability of a win or loss."
+  },
+  {
+    "objectID": "projects/project3.html#methodology",
+    "href": "projects/project3.html#methodology",
+    "title": "Predicting NBA Outcomes Using Machine Learning Methods",
+    "section": "Methodology",
+    "text": "Methodology\n\nDataset: Historical NBA game data with team stats (shooting %, turnovers, rebounds, assists, etc.)\n\nFeature Engineering: Scaled continuous variables and selected the most important predictors\n\nModeling: Implemented Logistic Regression with L2 penalty (Ridge Regularization) for better generalization\n\nEvaluation: Measured accuracy, precision, recall, and AUC to assess performance"
+  },
+  {
+    "objectID": "projects/project3.html#key-findings",
+    "href": "projects/project3.html#key-findings",
+    "title": "Predicting NBA Outcomes Using Machine Learning Methods",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nLogistic Regression with L2 regularization outperformed other models\n\nTurnovers, shooting %, and rebounds were the strongest predictors\n\nRegularization reduced overfitting, improving model stability"
+  },
+  {
+    "objectID": "projects/project3.html#results-visualization",
+    "href": "projects/project3.html#results-visualization",
+    "title": "Predicting NBA Outcomes Using Machine Learning Methods",
+    "section": "Results Visualization",
+    "text": "Results Visualization\n\nFigure: Key features influencing NBA game outcomes"
+  },
+  {
+    "objectID": "projects/project3.html#conclusion",
+    "href": "projects/project3.html#conclusion",
+    "title": "Predicting NBA Outcomes Using Machine Learning Methods",
+    "section": "Conclusion",
+    "text": "Conclusion\nL2-penalized Logistic Regression provides a stable and interpretable model for predicting NBA game outcomes. Future work could explore player-specific metrics, momentum analysis, and real-time in-game factors.\nDownload the full report (PDF)"
   }
 ]

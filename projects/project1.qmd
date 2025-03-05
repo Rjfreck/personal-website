@@ -1,0 +1,29 @@
+---
+title: "Predicting Uber Fare Prices Using a Gradient Boosting Model"
+image: "uber.jpg"
+description: "Predicted Uber fares using XGBoost, feature engineering, and geospatial analysis."
+pdf: "Uber_fare_prediction.pdf"
+format: html
+---
+
+## Overview  
+This project predicts **Uber ride fares** using a **Gradient Boosting Model (XGBoost)**. The model leverages **pickup/dropoff locations, distance, and passenger count** to estimate fares accurately.
+
+## Methodology  
+- **Dataset:** 200,000 Uber ride records with fare amounts  
+- **Feature Engineering:** Calculated ride distance using latitude/longitude  
+- **Modeling:** Trained **XGBoost Regression** with hyperparameter tuning  
+
+## Key Findings  
+- **Distance is the strongest predictor** of fare amount  
+- **Time-based features (hour, day of the week) also impact fares**  
+- **XGBoost outperformed Linear Regression** in prediction accuracy  
+
+## Results Visualization  
+![Feature Importance](features.png)  
+*Figure: XGBoost feature importance rankings*  
+
+## Conclusion  
+This model demonstrates how **machine learning can optimize fare predictions**, with potential applications in **dynamic pricing strategies**.
+
+**[View the code (PDF)](Uber_fare_prediction.pdf)**  

@@ -16,3 +16,11 @@ about:
       url: "RoryFreck Resume.pdf"
 toc: false
 ---
+
+## About Me
+
+Hey, I’m Rory Freck, and I’m passionate about the intersection of finance, data, and problem-solving. I’m currently finishing up my degree in Statistics and Data Science at UCLA, where I’ve spent the last few years diving into everything from machine learning to data visualization. This fall, I’ll be starting my Master of Professional Accountancy (MPAcc) at CSUN, taking my skills into the world of accounting and finance.
+
+I’ve had the chance to work as a Data Analyst Intern at Stanford, where I built interactive dashboards in Tableau, analyzed hiring trends, and even created an employee recognition webpage using Drupal. Before that, I interned at Stony Apparel Corp., where I helped with internal audits, client orders, and data verification—even preventing a $5,000 compliance fee through careful auditing.
+
+Outside of work and school, I love cooking, watching baseball and football, playing poker, and diving into anything finance-related. I’m always looking to connect, learn, and take on new challenges, so feel free to reach out on LinkedIn!

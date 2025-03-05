@@ -1,0 +1,30 @@
+---
+title: "Does Heavy or Classical Music Impact Reading Comprehension: An ANOVA Analysis"
+image: "viktor-forgacs-B88PgQXS4qg-unsplash.jpg"
+description: "Analyzed classical vs. heavy metal music effects on reading using ANOVA & RCBD."
+pdf: "STATS101FinalProject.pdf"
+format: html
+---
+
+
+## Overview  
+This study examines how **classical and heavy metal music** influence reading comprehension. Using an **ANOVA analysis within a Randomized Block Design (RCBD)**, we tested whether music genre affects performance on a standardized reading test.
+
+## Methodology  
+- **Participants:** 60 participants randomly assigned to classical or heavy metal conditions  
+- **Design:** Pretest-Posttest with **Randomized Block Design (RCBD)**  
+- **Analysis:** ANOVA to compare reading scores across conditions  
+
+## Key Findings  
+- **Classical music group** scored significantly higher on reading comprehension.  
+- **Heavy metal music** had a small negative effect, but not statistically significant.  
+- **RCBD controlled for prior reading ability**, improving statistical power.  
+
+## Results Visualization  
+![ANOVA Results](anova_results.png)  
+*Figure: Mean reading scores by music type*  
+
+## Conclusion  
+Our findings suggest that **classical music may enhance reading comprehension**, while heavy metal has no strong negative effect. Future research could explore **music tempo, lyrics, or individual differences**.
+
+**[Download the full report (PDF)](STATS101FinalProject.pdf)**  

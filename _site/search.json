@@ -63,20 +63,6 @@
     "text": "Conclusion\nOur findings suggest that classical music may enhance reading comprehension, while heavy metal has no strong negative effect. Future research could explore music tempo, lyrics, or individual differences.\nDownload the full report (PDF)"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Rory Freck",
-    "section": "",
-    "text": "Hey, I’m Rory Freck, and I’m passionate about the intersection of finance, data, and problem-solving. I’m currently finishing up my degree in Statistics and Data Science at UCLA, where I’ve spent the last few years diving into everything from machine learning to data visualization. This fall, I’ll be starting my Master of Professional Accountancy (MPAcc) at CSUN, taking my skills into the world of accounting and finance.\nI’ve had the chance to work as a Data Analyst Intern at Stanford, where I built interactive dashboards in Tableau, analyzed hiring trends, and even created an employee recognition webpage using Drupal. Before that, I interned at Stony Apparel Corp., where I helped with internal audits, client orders, and data verification—even preventing a $5,000 compliance fee through careful auditing.\nOutside of work and school, I love cooking, watching baseball and football, playing poker, and diving into anything finance-related. I’m always looking to connect, learn, and take on new challenges, so feel free to reach out on LinkedIn!"
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Rory Freck",
-    "section": "",
-    "text": "Hey, I’m Rory Freck, and I’m passionate about the intersection of finance, data, and problem-solving. I’m currently finishing up my degree in Statistics and Data Science at UCLA, where I’ve spent the last few years diving into everything from machine learning to data visualization. This fall, I’ll be starting my Master of Professional Accountancy (MPAcc) at CSUN, taking my skills into the world of accounting and finance.\nI’ve had the chance to work as a Data Analyst Intern at Stanford, where I built interactive dashboards in Tableau, analyzed hiring trends, and even created an employee recognition webpage using Drupal. Before that, I interned at Stony Apparel Corp., where I helped with internal audits, client orders, and data verification—even preventing a $5,000 compliance fee through careful auditing.\nOutside of work and school, I love cooking, watching baseball and football, playing poker, and diving into anything finance-related. I’m always looking to connect, learn, and take on new challenges, so feel free to reach out on LinkedIn!"
-  },
-  {
     "objectID": "projects/project1.html",
     "href": "projects/project1.html",
     "title": "Predicting Uber Fare Prices Using a Gradient Boosting Model",
@@ -159,5 +145,19 @@
     "title": "Predicting NBA Outcomes Using Machine Learning Methods",
     "section": "Conclusion",
     "text": "Conclusion\nL2-penalized Logistic Regression provides a stable and interpretable model for predicting NBA game outcomes. Future work could explore player-specific metrics, momentum analysis, and real-time in-game factors.\nDownload the full report (PDF)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Rory Freck",
+    "section": "",
+    "text": "Hey, I’m Rory Freck, and I’m passionate about the intersection of finance, data, and problem-solving. I’m currently finishing up my degree in Statistics and Data Science at UCLA, where I’ve spent the last few years diving into everything from machine learning to data visualization. This fall, I’ll be starting my Master of Professional Accountancy (MPAcc) at CSUN, taking my skills into the world of accounting and finance.\nI’ve had the chance to work as a Data Analyst Intern at Stanford, where I built interactive dashboards in Tableau, analyzed hiring trends, and even created an employee recognition webpage using Drupal. Before that, I interned at Stony Apparel Corp., where I helped with internal audits, client orders, and data verification—even preventing a $5,000 compliance fee through careful auditing.\nOutside of work and school, I love cooking, watching baseball and football, playing poker, and diving into anything finance-related. I’m always looking to connect, learn, and take on new challenges, so feel free to reach out on LinkedIn!"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Rory Freck",
+    "section": "",
+    "text": "Hey, I’m Rory Freck, and I’m passionate about the intersection of finance, data, and problem-solving. I’m currently finishing up my degree in Statistics and Data Science at UCLA, where I’ve spent the last few years diving into everything from machine learning to data visualization. This fall, I’ll be starting my Master of Professional Accountancy (MPAcc) at CSUN, taking my skills into the world of accounting and finance.\nI’ve had the chance to work as a Data Analyst Intern at Stanford, where I built interactive dashboards in Tableau, analyzed hiring trends, and even created an employee recognition webpage using Drupal. Before that, I interned at Stony Apparel Corp., where I helped with internal audits, client orders, and data verification—even preventing a $5,000 compliance fee through careful auditing.\nOutside of work and school, I love cooking, watching baseball and football, playing poker, and diving into anything finance-related. I’m always looking to connect, learn, and take on new challenges, so feel free to reach out on LinkedIn!"
   }
 ]

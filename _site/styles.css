@@ -80,10 +80,9 @@ a:hover {
   background-color: var(--secondary-color);
 }
 
-/* ===== Project Cards (Better Contrast & Shadows) ===== */
 
 /* ===== Project Cards (Better Contrast & Hover Effects) ===== */
-.quarto-grid-item {  /* Quarto applies this class to grid items */
+.quarto-grid-item {
   background-color: white;
   border-radius: 10px;
   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);

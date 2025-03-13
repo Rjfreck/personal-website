@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Predicted Uber fares using XGBoost, feature engineering, and geospatial analysis.">
+<meta name="description" content="Analyzing the impact of socioeconomic factors, discrimination, and mental health history on depression risk in U.S. adults using logistic regression and random forest models.">
 
-<title>Predicting Uber Fare Prices Using a Gradient Boosting Model</title>
+<title>Diversity in Depression: Analyzing Mental Health Disparities</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -104,12 +104,12 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Predicting Uber Fare Prices Using a Gradient Boosting Model</h1>
+<h1 class="title">Diversity in Depression: Analyzing Mental Health Disparities</h1>
 </div>
 
 <div>
   <div class="description">
-    Predicted Uber fares using XGBoost, feature engineering, and geospatial analysis.
+    Analyzing the impact of socioeconomic factors, discrimination, and mental health history on depression risk in U.S. adults using logistic regression and random forest models.
   </div>
 </div>
 
@@ -128,37 +128,45 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="overview" class="level2">
 <h2 class="anchored" data-anchor-id="overview">Overview</h2>
-<p>This project predicts <strong>Uber ride fares</strong> using a <strong>Gradient Boosting Model (XGBoost)</strong>. The model leverages <strong>pickup/dropoff locations, distance, and passenger count</strong> to estimate fares accurately.</p>
+<p>This study investigates how <strong>demographic, socioeconomic, and psychological factors</strong> contribute to depression risk in the United States. Using <strong>logistic regression and random forest models</strong>, we analyze data from the <strong>National Health Interview Survey (NHIS)</strong> to uncover key predictors of depression.</p>
 </section>
 <section id="methodology" class="level2">
 <h2 class="anchored" data-anchor-id="methodology">Methodology</h2>
 <ul>
-<li><strong>Dataset:</strong> 200,000 Uber ride records with fare amounts<br>
-</li>
-<li><strong>Feature Engineering:</strong> Calculated ride distance using latitude/longitude<br>
-</li>
-<li><strong>Modeling:</strong> Trained <strong>XGBoost Regression</strong> with hyperparameter tuning</li>
+<li><strong>Dataset:</strong> 2023 National Health Interview Survey (NHIS)</li>
+<li><strong>Sample Size:</strong> 28,260 U.S. adults</li>
+<li><strong>Predictors Explored:</strong> Race, education, income-to-poverty ratio, anxiety screening, disability, and discrimination experiences.</li>
+<li><strong>Statistical Methods:</strong>
+<ul>
+<li>Logistic Regression (to estimate depression risk)</li>
+<li>Random Forest (to assess variable importance)</li>
+<li>Chi-Squared Tests (to examine categorical associations)</li>
+<li>K-Fold Cross Validation (to validate model performance)</li>
+</ul></li>
 </ul>
 </section>
 <section id="key-findings" class="level2">
 <h2 class="anchored" data-anchor-id="key-findings">Key Findings</h2>
 <ul>
-<li><strong>Distance is the strongest predictor</strong> of fare amount<br>
-</li>
-<li><strong>Time-based features (hour, day of the week) also impact fares</strong><br>
-</li>
-<li><strong>XGBoost outperformed Linear Regression</strong> in prediction accuracy</li>
+<li><strong>Anxiety screening was the strongest predictor</strong> of depression risk.</li>
+<li><strong>Disability status</strong> significantly increased the odds of depression.</li>
+<li><strong>Experiences of discrimination</strong>, such as feeling disrespected or threatened, had a strong association with depression.</li>
+<li><strong>Lower socioeconomic status</strong> (income-to-poverty ratio) was linked to higher depression risk.</li>
 </ul>
 </section>
 <section id="results-visualization" class="level2">
 <h2 class="anchored" data-anchor-id="results-visualization">Results Visualization</h2>
-<p><img src="features.png" class="img-fluid" alt="Feature Importance"><br>
-<em>Figure: XGBoost feature importance rankings</em></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="features.png" class="img-fluid figure-img"></p>
+<figcaption>Feature Importance</figcaption>
+</figure>
+</div>
 </section>
 <section id="conclusion" class="level2">
 <h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
-<p>This model demonstrates how <strong>machine learning can optimize fare predictions</strong>, with potential applications in <strong>dynamic pricing strategies</strong>.</p>
-<p><strong><a href="Uber_fare_prediction.pdf">View the code (PDF)</a></strong></p>
+<p>Our findings indicate that <strong>mental health disparities</strong> are influenced by <strong>economic, psychological, and social factors</strong>. Policies aimed at improving financial stability, reducing discrimination, and expanding mental health care access could mitigate depression risk.</p>
+<p><strong><a href="Diversity in Depression.pdf">View the full report (PDF)</a></strong></p>
 
 
 </section>

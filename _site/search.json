@@ -65,44 +65,44 @@
   {
     "objectID": "projects/project1.html",
     "href": "projects/project1.html",
-    "title": "Predicting Uber Fare Prices Using a Gradient Boosting Model",
+    "title": "Diversity in Depression: Analyzing Mental Health Disparities",
     "section": "",
-    "text": "This project predicts Uber ride fares using a Gradient Boosting Model (XGBoost). The model leverages pickup/dropoff locations, distance, and passenger count to estimate fares accurately."
+    "text": "This study investigates how demographic, socioeconomic, and psychological factors contribute to depression risk in the United States. Using logistic regression and random forest models, we analyze data from the National Health Interview Survey (NHIS) to uncover key predictors of depression."
   },
   {
     "objectID": "projects/project1.html#overview",
     "href": "projects/project1.html#overview",
-    "title": "Predicting Uber Fare Prices Using a Gradient Boosting Model",
+    "title": "Diversity in Depression: Analyzing Mental Health Disparities",
     "section": "",
-    "text": "This project predicts Uber ride fares using a Gradient Boosting Model (XGBoost). The model leverages pickup/dropoff locations, distance, and passenger count to estimate fares accurately."
+    "text": "This study investigates how demographic, socioeconomic, and psychological factors contribute to depression risk in the United States. Using logistic regression and random forest models, we analyze data from the National Health Interview Survey (NHIS) to uncover key predictors of depression."
   },
   {
     "objectID": "projects/project1.html#methodology",
     "href": "projects/project1.html#methodology",
-    "title": "Predicting Uber Fare Prices Using a Gradient Boosting Model",
+    "title": "Diversity in Depression: Analyzing Mental Health Disparities",
     "section": "Methodology",
-    "text": "Methodology\n\nDataset: 200,000 Uber ride records with fare amounts\n\nFeature Engineering: Calculated ride distance using latitude/longitude\n\nModeling: Trained XGBoost Regression with hyperparameter tuning"
+    "text": "Methodology\n\nDataset: 2023 National Health Interview Survey (NHIS)\nSample Size: 28,260 U.S. adults\nPredictors Explored: Race, education, income-to-poverty ratio, anxiety screening, disability, and discrimination experiences.\nStatistical Methods:\n\nLogistic Regression (to estimate depression risk)\nRandom Forest (to assess variable importance)\nChi-Squared Tests (to examine categorical associations)\nK-Fold Cross Validation (to validate model performance)"
   },
   {
     "objectID": "projects/project1.html#key-findings",
     "href": "projects/project1.html#key-findings",
-    "title": "Predicting Uber Fare Prices Using a Gradient Boosting Model",
+    "title": "Diversity in Depression: Analyzing Mental Health Disparities",
     "section": "Key Findings",
-    "text": "Key Findings\n\nDistance is the strongest predictor of fare amount\n\nTime-based features (hour, day of the week) also impact fares\n\nXGBoost outperformed Linear Regression in prediction accuracy"
+    "text": "Key Findings\n\nAnxiety screening was the strongest predictor of depression risk.\nDisability status significantly increased the odds of depression.\nExperiences of discrimination, such as feeling disrespected or threatened, had a strong association with depression.\nLower socioeconomic status (income-to-poverty ratio) was linked to higher depression risk."
   },
   {
     "objectID": "projects/project1.html#results-visualization",
     "href": "projects/project1.html#results-visualization",
-    "title": "Predicting Uber Fare Prices Using a Gradient Boosting Model",
+    "title": "Diversity in Depression: Analyzing Mental Health Disparities",
     "section": "Results Visualization",
-    "text": "Results Visualization\n\nFigure: XGBoost feature importance rankings"
+    "text": "Results Visualization\n\n\n\nFeature Importance"
   },
   {
     "objectID": "projects/project1.html#conclusion",
     "href": "projects/project1.html#conclusion",
-    "title": "Predicting Uber Fare Prices Using a Gradient Boosting Model",
+    "title": "Diversity in Depression: Analyzing Mental Health Disparities",
     "section": "Conclusion",
-    "text": "Conclusion\nThis model demonstrates how machine learning can optimize fare predictions, with potential applications in dynamic pricing strategies.\nView the code (PDF)"
+    "text": "Conclusion\nOur findings indicate that mental health disparities are influenced by economic, psychological, and social factors. Policies aimed at improving financial stability, reducing discrimination, and expanding mental health care access could mitigate depression risk.\nView the full report (PDF)"
   },
   {
     "objectID": "projects/project3.html",
@@ -151,13 +151,13 @@
     "href": "index.html",
     "title": "Rory Freck",
     "section": "",
-    "text": "Hey, I’m Rory Freck, and I’m passionate about the intersection of finance, data, and problem-solving. I’m currently finishing up my degree in Statistics and Data Science at UCLA, where I’ve spent the last few years diving into everything from machine learning to data visualization. This fall, I’ll be starting my Master of Professional Accountancy (MPAcc) at CSUN, taking my skills into the world of accounting and finance.\nI’ve had the chance to work as a Data Analyst Intern at Stanford, where I built interactive dashboards in Tableau, analyzed hiring trends, and even created an employee recognition webpage using Drupal. Before that, I interned at Stony Apparel Corp., where I helped with internal audits, client orders, and data verification—even preventing a $5,000 compliance fee through careful auditing.\nOutside of work and school, I love cooking, watching baseball and football, playing poker, and diving into anything finance-related. I’m always looking to connect, learn, and take on new challenges, so feel free to reach out on LinkedIn!"
+    "text": "Hey, I’m Rory Freck, and I’m passionate about the intersection of finance, data, and problem-solving. I’m currently finishing up my degree in Statistics and Data Science at UCLA, where I’ve spent the last few years studying statistical theory, data applications, and machine learning. This fall, I’ll be starting my Master of Professional Accountancy (MPAcc) at CSUN where I will hope to start my career in public auditing.\nI’ve had the chance to work as a Data Analyst Intern at Stanford, where I built interactive dashboards in Tableau, analyzed hiring trends, and created an employee recognition webpage using Drupal and HTML/CSS. Before that, I interned at Stony Apparel Corp., where I helped with data integrity, client orders, and data verification; ultimately, leading to the prevention of a $5,000 compliance fee through careful verification.\nOutside of work and school, I enjoy playing golf and talking baseball. I am always looking to learn, connect, and develop professionally, so feel free to connect on LinkedIn!"
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Rory Freck",
     "section": "",
-    "text": "Hey, I’m Rory Freck, and I’m passionate about the intersection of finance, data, and problem-solving. I’m currently finishing up my degree in Statistics and Data Science at UCLA, where I’ve spent the last few years diving into everything from machine learning to data visualization. This fall, I’ll be starting my Master of Professional Accountancy (MPAcc) at CSUN, taking my skills into the world of accounting and finance.\nI’ve had the chance to work as a Data Analyst Intern at Stanford, where I built interactive dashboards in Tableau, analyzed hiring trends, and even created an employee recognition webpage using Drupal. Before that, I interned at Stony Apparel Corp., where I helped with internal audits, client orders, and data verification—even preventing a $5,000 compliance fee through careful auditing.\nOutside of work and school, I love cooking, watching baseball and football, playing poker, and diving into anything finance-related. I’m always looking to connect, learn, and take on new challenges, so feel free to reach out on LinkedIn!"
+    "text": "Hey, I’m Rory Freck, and I’m passionate about the intersection of finance, data, and problem-solving. I’m currently finishing up my degree in Statistics and Data Science at UCLA, where I’ve spent the last few years studying statistical theory, data applications, and machine learning. This fall, I’ll be starting my Master of Professional Accountancy (MPAcc) at CSUN where I will hope to start my career in public auditing.\nI’ve had the chance to work as a Data Analyst Intern at Stanford, where I built interactive dashboards in Tableau, analyzed hiring trends, and created an employee recognition webpage using Drupal and HTML/CSS. Before that, I interned at Stony Apparel Corp., where I helped with data integrity, client orders, and data verification; ultimately, leading to the prevention of a $5,000 compliance fee through careful verification.\nOutside of work and school, I enjoy playing golf and talking baseball. I am always looking to learn, connect, and develop professionally, so feel free to connect on LinkedIn!"
   }
 ]

@@ -2,7 +2,7 @@
 title: "Predicting Uber Fare Prices Using a Gradient Boosting Model"
 image: "uber.jpg"
 description: "Predicted Uber fares using XGBoost, feature engineering, and geospatial analysis."
-pdf: "Uber_fare_prediction.pdf"
+pdf: "Diversity in Depression.pdf"
 format: html
 ---
 
